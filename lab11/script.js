@@ -86,7 +86,7 @@ function runSim() {
         labels: labels,
         datasets: [
             {
-                label: "ormal distribution",
+                label: "Normal distribution",
                 data: dataset,
                 backgroundColor: ["rgba(255, 99, 132, 0.2)"],
                 borderColor: ["rgb(0, 0, 0)"],
